@@ -4,6 +4,7 @@ about: Forslag til ny eller endret funksjonalitet — også når dagens oppførs
 title: ''
 type: 'Feature'
 assignees: ''
+labels: ['Awaiting triage']
 ---
 
 <!-- Tittelen må være en selvstendig beskrivelse av den ønskede funksjonaliteten -->
