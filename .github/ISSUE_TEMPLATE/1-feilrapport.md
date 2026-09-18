@@ -3,7 +3,7 @@ name: Feilrapport
 about: Noe virker feil i forhold til slik det skal virke. Gjelder produksjon, ikke ting under utvikling.
 title: ''
 type: 'Bug'
-assignees: ''
+assignees: 'einarkjellback'
 ---
 
 <!-- Tittelen må være en selvstendig beskrivelse av feilen -->
